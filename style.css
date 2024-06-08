@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+}
+.error {
+    height: 1px;
+}
+input {
+    outline: none !important;
+    border: none !important;
+    height: 35px;
+}
+.eye {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    width: 30px;
+}
+#password,
+#confirmPassword {
+    padding-left: 12px;
+}
